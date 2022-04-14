@@ -1,9 +1,6 @@
 package com.company;
 
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.awt.event.InputEvent;
 import java.io.Console;
 import java.io.IOException;
 import java.io.InputStream;
